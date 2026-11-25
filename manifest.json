@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "package": "com.kranin",
+  "client": {
+    "version": 0,
+    "url": "",
+    "sha256": "",
+    "size": 0
+  },
+  "cache": {
+    "base_url": "https://github.com/az3005484-afk/lunna-launcher/releases/download/cache/",
+    "files": []
+  },
+  "notice": {
+    "id": 0,
+    "title": "",
+    "text": ""
+  }
+}
