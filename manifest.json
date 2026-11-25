@@ -8,12 +8,12 @@
     "size": 0
   },
   "cache": {
-    "base_url": "https://github.com/az3005484-afk/lunna-launcher/releases/download/cache/",
+    "base_url": "https:\/\/github.com\/az3005484-afk\/lunna-launcher\/releases\/download\/cache\/",
     "files": []
   },
   "notice": {
-    "id": 0,
-    "title": "",
-    "text": ""
+    "id": 1795610464,
+    "title": "тест",
+    "text": "тест"
   }
 }
