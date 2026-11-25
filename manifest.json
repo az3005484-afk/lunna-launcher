@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "package": "com.kranin",
   "client": {
     "version": 0,
@@ -15,5 +15,11 @@
     "id": 1795610464,
     "title": "тест",
     "text": "тест"
+  },
+  "info": {
+    "forum_url": "https:\/\/wh36124.web1.maze-tech.ru\/index.php",
+    "about_url": "https:\/\/t.me\/Lunna_Russia",
+    "updates_title": "",
+    "updates_text": ""
   }
 }
