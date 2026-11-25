@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "package": "com.kranin",
   "client": {
     "version_code": 1184,
@@ -21,7 +21,7 @@
   "info": {
     "forum_url": "https:\/\/wh36124.web1.maze-tech.ru\/index.php",
     "about_url": "https:\/\/t.me\/Lunna_Russia",
-    "updates_title": "Лаунчер переходник уже готов!",
-    "updates_text": "Мы перешли на другой лаунчер, в который приходят все обновления!"
+    "updates_title": "Лаунчер обновлен!",
+    "updates_text": "Лаунчер уже обновился и приобрёл свой вид!"
   }
 }
