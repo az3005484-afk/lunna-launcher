@@ -1,11 +1,13 @@
 {
-  "version": 3,
+  "version": 4,
   "package": "com.kranin",
   "client": {
-    "version": 0,
-    "url": "",
-    "sha256": "",
-    "size": 0
+    "version_code": 1182,
+    "version_name": "16.23.0",
+    "url": "https:\/\/github.com\/az3005484-afk\/lunna-launcher\/releases\/download\/client\/client.apk",
+    "sha256": "7ff2912c8cc49c0d2917e2c56081316129a02ab55e2714ee494a2ef24837a23c",
+    "size": 115971022,
+    "activity": "com.blackhub.bronline.launcher.activities.MainActivity"
   },
   "cache": {
     "base_url": "https:\/\/github.com\/az3005484-afk\/lunna-launcher\/releases\/download\/cache\/",
