@@ -1,0 +1,28 @@
+[
+  {
+    "online": "0",
+    "maxonline": "1300",
+    "color": "8000ff",
+    "x2": "else",
+    "key": "1424",
+    "name": "MAGADAN",
+    "firstname": "Magadan",
+    "secondname": "",
+    "url": "magadan.blackrussia.online",
+    "ip": "80.242.59.112",
+    "port": "7241"
+  },
+  {
+    "online": "0",
+    "maxonline": "1300",
+    "color": "808080",
+    "x2": "else",
+    "key": "1424",
+    "name": "MAGADAN",
+    "firstname": "Test-Server",
+    "secondname": "",
+    "url": "astanaa.blackrussia.online",
+    "ip": "188.127.241.74",
+    "port": "1428"
+  }
+]
