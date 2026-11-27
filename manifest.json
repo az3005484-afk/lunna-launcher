@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "package": "com.kranin",
   "client": {
     "version_code": 1184,
@@ -21,7 +21,7 @@
   "info": {
     "forum_url": "https:\/\/wh36124.web1.maze-tech.ru\/index.php",
     "about_url": "https:\/\/t.me\/Lunna_Russia",
-    "updates_title": "Лаунчер обновлен!",
-    "updates_text": "Лаунчер уже обновился и приобрёл свой вид!"
+    "updates_title": "Поломка Игры!",
+    "updates_text": "У нас испорчен лаунчер будем делать новый и потом будете играть"
   }
 }
